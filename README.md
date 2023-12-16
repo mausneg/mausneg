@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maulana</h1>
+<h1 align="center">Hi 👋, I'm Maulana Surya Negara</h1>
 <h3 align="center">A passionate machine learning developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **DestiMate**
