@@ -1,7 +1,7 @@
 ![](https://freight.cargo.site/w/1200/i/2fcf8fc6613f3eb693a5d49bebc7f05c71a2fb41dc50c5f76e3dd0fc739c3e4f/machine-learning.gif)
 <h1 align="center">Hi 👋, I'm Maulana Surya Negara</h1>
 <h3 align="center">Certified TensorFlow Developer from Indonesia</h3>
-<img align="right" alt="coding" width="450" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"/>
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mausneg&label=Profile%20views&color=0e75b6&style=flat" alt="mausneg" /> </p>
 
