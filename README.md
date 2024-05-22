@@ -1,4 +1,4 @@
-![](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
+<!-- ![](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif) -->
 <h1 align="center">Hi 👋, I'm Maulana Surya Negara</h1>
 <h3 align="center">Certified TensorFlow Developer from Indonesia</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"/> -->
